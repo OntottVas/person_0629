@@ -1,4 +1,3 @@
-Vaskó András,26,férfi
 Nagy Éva,35,nő
 Kovács Gábor,42,férfi
 Tóth Anna,19,nő
